@@ -1,0 +1,14 @@
+D:\VS Projects\UnifySdkApp\SDKApp\bin\Release\SMLogger.config
+D:\VS Projects\UnifySdkApp\SDKApp\bin\Release\SDKApp.exe.config
+D:\VS Projects\UnifySdkApp\SDKApp\bin\Release\SDKApp.exe
+D:\VS Projects\UnifySdkApp\SDKApp\bin\Release\SDKApp.pdb
+D:\VS Projects\UnifySdkApp\SDKApp\bin\Release\SATMAP.Security.CryptoCommon.dll
+D:\VS Projects\UnifySdkApp\SDKApp\bin\Release\trg.satmap.logging.dll
+D:\VS Projects\UnifySdkApp\SDKApp\obj\Release\SDKApp.MainPage.resources
+D:\VS Projects\UnifySdkApp\SDKApp\obj\Release\SDKApp.Properties.Resources.resources
+D:\VS Projects\UnifySdkApp\SDKApp\obj\Release\SDKApp.csproj.GenerateResource.cache
+D:\VS Projects\UnifySdkApp\SDKApp\obj\Release\SDKApp.csproj.CoreCompileInputs.cache
+D:\VS Projects\UnifySdkApp\SDKApp\obj\Release\SDKApp.csproj.CopyComplete
+D:\VS Projects\UnifySdkApp\SDKApp\obj\Release\SDKApp.exe
+D:\VS Projects\UnifySdkApp\SDKApp\obj\Release\SDKApp.pdb
+D:\VS Projects\UnifySdkApp\SDKApp\obj\Release\SDKApp.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+2019-02-13 03:33:14,019 [3] INFO  trg.sm.si.unify.UnifySimulator.main - [StartUp Thread started]~~
+2019-02-13 03:33:41,713 [3] INFO  trg.sm.si.unify.UnifySimulator.main - [Exception System.Runtime.InteropServices.COMException (0x80042100): Exception from HRESULT: 0x80042100
+   at HiPathProCenterLibrary.IHiPathProCenterManager5.Initialize(String AdministrationServerAddress, enEventModes EventMode, Int16 LocalPort, Int16 WorkingThreads, String BusinessUnitName)
+   at SDKApp.MainPage.ConnectToServer() in D:\VS Projects\UnifySdkApp\SDKApp\Form1.cs:line 81]~~
+2019-02-13 03:33:41,713 [3] INFO  trg.sm.si.unify.UnifySimulator.main - [Server Connected successfully Connected]~~

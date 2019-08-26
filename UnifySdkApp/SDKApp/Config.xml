@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<AgentList>
+  <Agent>
+    <Name>Sales02</Name>
+    <AgentKey>7</AgentKey>  
+    <AgentID>5005</AgentID>
+    <Extenssion>12025991003</Extenssion>                       <!--   12025991003  -->
+    <WaitTime>10</WaitTime>
+    <CallTime>20</CallTime>
+  </Agent> 
+  <Agent>
+    <Name>Sales01</Name>
+    <AgentKey>6</AgentKey>  
+    <AgentID>5004</AgentID>
+    <Extenssion>12025991002</Extenssion>                       <!--   12025991002  -->
+    <WaitTime>13</WaitTime>
+    <CallTime>15</CallTime>
+  </Agent>
+  <Agent>
+    <Name>Tech01</Name>
+    <AgentKey>8</AgentKey>  
+    <AgentID>5006</AgentID>
+    <Extenssion></Extenssion>
+    <WaitTime>5</WaitTime>
+    <CallTime>15</CallTime>
+  </Agent>
+  <Agent>
+    <Name>Tech02</Name>
+    <AgentKey>9</AgentKey>  
+    <AgentID>5007</AgentID>
+    <Extenssion></Extenssion>
+    <WaitTime>5</WaitTime>
+    <CallTime>15</CallTime>
+  </Agent>
+</AgentList>

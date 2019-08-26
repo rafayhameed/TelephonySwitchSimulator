@@ -1,0 +1,91 @@
+
+STARTING NEW DIAG
+Administration Server Client version:   V8 R2.16.213
+Callback Server Client version:   V8 R2.16.213
+E-mail Server Client Interface version:   V8 R2.16.213
+E-mail Server Client version:   V8 R2.16.213
+Framework version:   V8 R2.16.213
+Real-Time Server Client version:   V8 R2.16.213
+Routing Server Client version:   V8 R2.16.213
+Statistics Server Client version:   V8 R2.16.213
+T-Server Client version:   V8 R2.16.213
+Watchdog Server Client version:   V8 R2.16.213
+Web Interaction Server Client version:   V8 R2.16.213
+2018/10/30
+STARTING NEW DIAG
+[2018/10/30 19:27:12.887] WARN ftbframe.cpp                 196 3030 reading metrics config file:C:\Windows\system32\t_config.ini
+[2018/10/30 19:27:12.897] WARN fnetwork.cpp                  90 3030 C:\Windows\system32\ipc.cfg
+[2018/10/30 19:27:12.919] WARN fnetwork.cpp                 105 3030 can not open ipc.cfg
+[2018/10/30 19:27:12.919] WARN fnetwork.cpp                 140 3030 can not open fwnetopt.cfg
+[2018/10/30 19:27:12.928] WARN fnipcstr.cpp                  79 3030 Creating TIPCStream: name=6100@lhr-si-rafay,bufSize=65535,isAServer=1
+[2018/10/30 19:27:12.928] WARN fnipcstr.cpp                 277 3030 doInit success
+[2018/10/30 19:27:12.929] WARN fnstrctr.cpp                 158 3e10 TIPCStreamReader Start
+[2018/10/30 19:27:12.930] WARN fnstrctr.cpp                 162 3e10 TIPCStreamReader Start read message
+[2018/10/30 19:27:12.931] WARN fnetwork.cpp                 797 3a60 opening a remote tcpip connection to afiosccv8.satmapinc.com port 6000
+[2018/10/30 19:27:13.215] WARN fnCompPortNet.cpp           1189 3a60 Connect to 6000@afiosccv8.satmapinc.com successfully,local socket info=64043@10.105.27.94
+[2018/10/30 19:27:13.215] WARN fntcpip.cpp                  641 3a60 socket=3044 is created for opening connection,local socket info=64043@10.105.27.94
+[2018/10/30 19:27:14.209] WARN ftframe.cpp                  470 3030 Ignoring parameters for TFramework constructor.  Base framework already exists.  The behaviour for this usage is undefined.
+[2018/10/30 19:27:19.560] WARN ftframe.cpp                  470 3030 Ignoring parameters for TFramework constructor.  Base framework already exists.  The behaviour for this usage is undefined.
+[2018/10/30 19:27:19.589] WARN fnetwork.cpp                 797 3a60 opening a remote tcpip connection to afiosccv8.satmapinc.com port 6005
+[2018/10/30 19:27:19.829] WARN fnCompPortNet.cpp           1189 3a60 Connect to 6005@afiosccv8.satmapinc.com successfully,local socket info=64051@10.105.27.94
+[2018/10/30 19:27:19.831] WARN fntcpip.cpp                  641 3a60 socket=3256 is created for opening connection,local socket info=64051@10.105.27.94
+[2018/10/30 19:28:27.299] WARN ftframe.cpp                  470 3030 Ignoring parameters for TFramework constructor.  Base framework already exists.  The behaviour for this usage is undefined.
+[2018/10/30 19:28:27.299] WARN fcdiag.cpp                  1878 3030 Presence Server Client version:   V8 R2.16.213
+[2018/10/30 19:28:27.301] WARN fnetwork.cpp                 797 3a60 opening a remote tcpip connection to afiosccv8.satmapinc.com port 6015
+[2018/10/30 19:28:27.318] WARN fnetwork.cpp                 797 1984 opening a remote tcpip connection to afiosccv8.satmapinc.com port 6015
+[2018/10/30 19:28:27.536] WARN fnCompPortNet.cpp           1189 3a60 Connect to 6015@afiosccv8.satmapinc.com successfully,local socket info=64062@10.105.27.94
+[2018/10/30 19:28:27.536] WARN fntcpip.cpp                  641 3a60 socket=3820 is created for opening connection,local socket info=64062@10.105.27.94
+[2018/10/30 19:28:27.552] WARN fnCompPortNet.cpp           1189 1984 Connect to 6015@afiosccv8.satmapinc.com successfully,local socket info=64063@10.105.27.94
+[2018/10/30 19:28:27.571] WARN fntcpip.cpp                  641 1984 socket=3832 is created for opening connection,local socket info=64063@10.105.27.94
+[2018/10/30 19:28:27.588] WARN fnetwork.cpp                 892 1984  Connection 0E445E38 already existed,close it
+[2018/10/30 19:28:27.591] WARN fntcpip.cpp                  596 1984 Close connection:0E445E38
+[2018/10/30 19:28:27.598] WARN fnCompPortNet.cpp           1207 1984 Close socket:3832
+[2018/10/30 19:28:27.598] WARN fnCompPortNet.cpp           1287 2690 GetQueuedCompletionStatus return FALSE,errorcode=995,completionKey=2,sockid=3832,state=-2
+[2018/10/30 19:28:27.599] WARN fnCompPortNet.cpp           1292 2690 clean up socket 3832
+[2018/10/30 19:28:27.599] WARN fnetwork.cpp                 459 1984 Attempt to close a non-existant connection.
+[2018/10/30 19:28:28.313] WARN ftframe.cpp                  470 3030 Ignoring parameters for TFramework constructor.  Base framework already exists.  The behaviour for this usage is undefined.
+[2018/10/30 19:28:28.316] WARN fnetwork.cpp                 797 1984 opening a remote tcpip connection to afiosccv8.satmapinc.com port 6001
+[2018/10/30 19:28:28.571] WARN fnCompPortNet.cpp           1189 1984 Connect to 6001@afiosccv8.satmapinc.com successfully,local socket info=64064@10.105.27.94
+[2018/10/30 19:28:28.571] WARN fntcpip.cpp                  641 1984 socket=3780 is created for opening connection,local socket info=64064@10.105.27.94
+[2018/10/30 19:28:28.574] WARN ftframe.cpp                  470 3030 Ignoring parameters for TFramework constructor.  Base framework already exists.  The behaviour for this usage is undefined.
+[2018/10/30 19:28:28.575] WARN fnetwork.cpp                 797 21ec opening a remote tcpip connection to afiosccv8.satmapinc.com port 6003
+[2018/10/30 19:28:28.651] WARN ftframe.cpp                  470 3030 Ignoring parameters for TFramework constructor.  Base framework already exists.  The behaviour for this usage is undefined.
+[2018/10/30 19:28:28.651] WARN fnetwork.cpp                 797 3d10 opening a remote tcpip connection to afiosccv8.satmapinc.com port 6004
+[2018/10/30 19:28:28.808] WARN fnCompPortNet.cpp           1189 21ec Connect to 6003@afiosccv8.satmapinc.com successfully,local socket info=64066@10.105.27.94
+[2018/10/30 19:28:28.808] WARN fntcpip.cpp                  641 21ec socket=4088 is created for opening connection,local socket info=64066@10.105.27.94
+[2018/10/30 19:28:28.884] WARN fnCompPortNet.cpp           1189 3d10 Connect to 6004@afiosccv8.satmapinc.com successfully,local socket info=64067@10.105.27.94
+[2018/10/30 19:28:28.884] WARN fntcpip.cpp                  641 3d10 socket=4232 is created for opening connection,local socket info=64067@10.105.27.94
+[2018/10/30 19:28:30.125] WARN ftframe.cpp                  470 3030 Ignoring parameters for TFramework constructor.  Base framework already exists.  The behaviour for this usage is undefined.
+[2018/10/30 19:28:30.137] WARN fnetwork.cpp                 797 3a60 opening a remote tcpip connection to afiosccv8.satmapinc.com port 6002
+[2018/10/30 19:28:30.373] WARN fnCompPortNet.cpp           1189 3a60 Connect to 6002@afiosccv8.satmapinc.com successfully,local socket info=64069@10.105.27.94
+[2018/10/30 19:28:30.373] WARN fntcpip.cpp                  641 3a60 socket=4352 is created for opening connection,local socket info=64069@10.105.27.94
+STARTING NEW DIAG
+Administration Server Client version:   V8 R2.16.213
+Callback Server Client version:   V8 R2.16.213
+E-mail Server Client Interface version:   V8 R2.16.213
+E-mail Server Client version:   V8 R2.16.213
+Framework version:   V8 R2.16.213
+Real-Time Server Client version:   V8 R2.16.213
+Routing Server Client version:   V8 R2.16.213
+Statistics Server Client version:   V8 R2.16.213
+T-Server Client version:   V8 R2.16.213
+Watchdog Server Client version:   V8 R2.16.213
+Web Interaction Server Client version:   V8 R2.16.213
+2019/02/13
+STARTING NEW DIAG
+[2019/02/13 03:33:15.482] WARN ftbframe.cpp                 196 0f98 reading metrics config file:C:\Windows\system32\t_config.ini
+[2019/02/13 03:33:15.496] WARN fnetwork.cpp                  90 0f98 C:\Windows\system32\ipc.cfg
+[2019/02/13 03:33:15.496] WARN fnetwork.cpp                 105 0f98 can not open ipc.cfg
+[2019/02/13 03:33:15.496] WARN fnetwork.cpp                 140 0f98 can not open fwnetopt.cfg
+[2019/02/13 03:33:15.511] WARN fnipcstr.cpp                  79 0f98 Creating TIPCStream: name=6100@lhr-si-rafay,bufSize=65535,isAServer=1
+[2019/02/13 03:33:15.511] WARN fnipcstr.cpp                 277 0f98 doInit success
+[2019/02/13 03:33:15.511] WARN fnstrctr.cpp                 158 2ab0 TIPCStreamReader Start
+[2019/02/13 03:33:15.512] WARN fnstrctr.cpp                 162 2ab0 TIPCStreamReader Start read message
+[2019/02/13 03:33:15.512] WARN fnetwork.cpp                 797 4978 opening a remote tcpip connection to afiosccv8.satmapinc.com port 6000
+[2019/02/13 03:33:36.520] WARN fnCompPortNet.cpp           1199 4978 Failed to connect to afiosccv8.satmapinc.com, port=6000,error=10060
+[2019/02/13 03:33:36.520] WARN fnetwork.cpp                 818 4978 Fail to open a remote tcpip connection to afiosccv8.satmapinc.com port 6000
+[2019/02/13 03:33:37.021] WARN fnCompPortNet.cpp           1125 0f98 TCompPortNet::PerformCleanup Waiting for handler thread exit...,m_hHandler=2668
+[2019/02/13 03:33:37.021] WARN fnCompPortNet.cpp           1387 1a7c TCompPortNet::Handler exit
+[2019/02/13 03:33:37.021] WARN fnCompPortNet.cpp           1129 0f98 Got notification that handler thread exit
+[2019/02/13 03:33:37.021] WARN fnCompPortNet.cpp           1138 0f98 TCompPortNet::PerformCleanup exit
+[2019/02/13 03:33:39.517] WARN fctask.cpp                   108 3718 Received NULL body in message.

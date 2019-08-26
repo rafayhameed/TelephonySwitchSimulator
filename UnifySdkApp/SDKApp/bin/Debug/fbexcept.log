@@ -1,0 +1,2 @@
+
+[2018/06/29 12:04:05.849][2] ProcessId: 0x7174  ErrorId: 1001  File: .\src\comp\fcdiag.cpp  Line: 000649  LastError: 0000000000  Sys.Error: 00012  ErrorDetails: Failed to allocate memory.  Sys.Details: Not enough space
